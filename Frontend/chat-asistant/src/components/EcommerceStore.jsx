@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 // Import Font Awesome icons for UI elements (search, cart, user, heart)
 import { FaSearch, FaShoppingCart, FaUser, FaHeart } from 'react-icons/fa'
 // Import the custom ChatWidget component for AI assistance
